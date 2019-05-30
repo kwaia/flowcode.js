@@ -1,0 +1,29 @@
+{
+  "name": "flowcode",
+  "version": "0.1.3",
+  "description": "Tools for building dataflow graphs",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "!dist/**/*.spec.*",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "computational-graphs",
+    "dataflow-programming",
+    "flow-based-programming",
+    "reactive-programming",
+    "reactive-streams",
+    "stream-processing",
+    "distributed-computing"
+  ],
+  "homepage": "http://kwaia.com",
+  "author": "Dan Stocker <dan@kwaia.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:flowcode/flowcode.git"
+  }
+}

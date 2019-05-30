@@ -1,0 +1,29 @@
+{
+  "name": "flowcode-dev",
+  "version": "0.1.0",
+  "description": "",
+  "homepage": "http://kwaia.com",
+  "author": "Dan Stocker <dan@kwaia.com>",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:flowcode/flowcode.git"
+  },
+  "devDependencies": {
+    "@types/grunt": "^0.4.24",
+    "@types/jasmine": "^2.8.16",
+    "grunt": "^1.0.3",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-exec": "^3.0.0",
+    "grunt-notify": "^0.4.5",
+    "grunt-tslint": "^5.0.2",
+    "jasmine": "^3.3.1",
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  },
+  "scripts": {
+    "postinstall": "grunt postinstall"
+  }
+}

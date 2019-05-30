@@ -1,0 +1,34 @@
+{
+  "name": "flowcode-mux",
+  "version": "0.1.2",
+  "description": "Multiplexing for FlowCode",
+  "homepage": "http://kwaia.com",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "!dist/**/*.spec.*",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "computational-graphs",
+    "dataflow-programming",
+    "distributed-computing",
+    "flow-based-programming",
+    "function-graph",
+    "multiplexing",
+    "reactive-programming",
+    "reactive-streams",
+    "stream-processing"
+  ],
+  "author": "Dan Stocker <dan@kwaia.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:flowcode/flowcode.git"
+  },
+  "dependencies": {
+    "flowcode": "^0.1.0"
+  }
+}

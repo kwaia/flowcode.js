@@ -1,0 +1,5 @@
+/*.tgz
+/.idea
+/.tscache
+/modules/*/dist
+node_modules
