@@ -1,7 +1,6 @@
-FlowCode
-========
+FlowCode.js
+===========
 
-**flowcode** is a minimal API for building *function graphs*.
+Tools for building dataflow graphs in JavaScript.
 
-For documentation, check the [**flowcode** wiki](https://github
-.com/kwaia/flowcode/wiki)
+For documentation, check the [**flowcode** wiki](https://github.com/kwaia/flowcode/wiki)
