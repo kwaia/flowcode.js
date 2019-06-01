@@ -1,6 +1,6 @@
 {
   "name": "flowcode-flow",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "description": "Flow control for FlowCode",
   "homepage": "http://kwaia.com",
   "main": "dist/index.js",

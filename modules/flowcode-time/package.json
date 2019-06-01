@@ -1,6 +1,6 @@
 {
   "name": "flowcode-time",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "description": "Timing for FlowCode",
   "homepage": "http://kwaia.com",
   "main": "dist/index.js",

@@ -1,6 +1,6 @@
 {
   "name": "flowcode-mux",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "description": "Multiplexing for FlowCode",
   "homepage": "http://kwaia.com",
   "main": "dist/index.js",

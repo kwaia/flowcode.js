@@ -1,6 +1,6 @@
 {
   "name": "flowcode-async",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "description": "Asynchronicity and parallelism for FlowCode",
   "homepage": "http://kwaia.com",
   "main": "dist/index.js",
