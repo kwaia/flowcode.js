@@ -1,4 +1,4 @@
-import * as map from "./map";
+import * as map from "./mappers";
 
 describe("map", () => {
   describe("constant()", () => {

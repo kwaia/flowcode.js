@@ -1,4 +1,4 @@
-import * as reduce from "./reduce";
+import * as reduce from "./reducers";
 
 describe("fold", () => {
   describe("count()", () => {
