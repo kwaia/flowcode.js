@@ -1,5 +1,5 @@
 import {createNode, Node} from "flowcode";
-import {Muxed} from "../types";
+import {Muxed} from "../types/Muxed";
 
 export type In<T> = {
   /** Multiplexed input value. */
