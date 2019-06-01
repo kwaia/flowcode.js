@@ -9,7 +9,7 @@ export type Out<T> = {
 
 /**
  * Merges last input values from all ports.
- * @link https://github.com/kwaia/flowcode/wiki/Merger
+ * @link https://github.com/kwaia/flowcode.js/wiki/Merger
  */
 export type Merger<T> = Node<In<T>, Out<T>>;
 

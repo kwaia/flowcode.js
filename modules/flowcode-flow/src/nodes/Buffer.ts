@@ -26,7 +26,7 @@ export type Out<V> = {
  * When the buffer is closed, it stores input values. When the buffer is
  * open it releases stored values and forwards input value.
  * Operates with either independent or joined inputs.
- * @link https://github.com/kwaia/flowcode/wiki/Buffer
+ * @link https://github.com/kwaia/flowcode.js/wiki/Buffer
  */
 export type Buffer<V> = Node<In<V>, Out<V>>;
 

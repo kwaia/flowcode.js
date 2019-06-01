@@ -19,7 +19,7 @@ export type Out<V> = {
 
 /**
  * Filters input values according to a filter callback.
- * @link https://github.com/kwaia/flowcode/wiki/Filter
+ * @link https://github.com/kwaia/flowcode.js/wiki/Filter
  */
 export type Filter<V> = Node<In<V>, Out<V>>;
 

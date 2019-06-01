@@ -11,7 +11,7 @@ export type Out<T> = T;
 /**
  * De-multiplexes input value.
  * Forwards de-multiplexed input values to corresponding output ports.
- * @link https://github.com/kwaia/flowcode/wiki/Demuxer
+ * @link https://github.com/kwaia/flowcode.js/wiki/Demuxer
  */
 export type Demuxer<T> = Node<In<T>, Out<T>>;
 

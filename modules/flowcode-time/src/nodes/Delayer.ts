@@ -12,7 +12,7 @@ export type Out<V> = {
 
 /**
  * Forwards input value with the specified delay.
- * @link https://github.com/kwaia/flowcode/wiki/Delayer
+ * @link https://github.com/kwaia/flowcode.js/wiki/Delayer
  */
 export type Delayer<V> = Node<In<V>, Out<V>>;
 

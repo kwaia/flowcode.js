@@ -11,4 +11,4 @@ Getting started
 Wiki
 ----
 
-For documentation, check the [**flowcode** wiki](https://github.com/kwaia/flowcode/wiki).
+For documentation, check the [**flowcode** wiki](https://github.com/kwaia/flowcode.js/wiki).

@@ -9,7 +9,7 @@ export type Out<T> = {
 
 /**
  * Synchronizes input values from all ports having the same tag.
- * @link https://github.com/kwaia/flowcode/wiki/Syncer
+ * @link https://github.com/kwaia/flowcode.js/wiki/Syncer
  */
 export type Syncer<T> = Node<In<T>, Out<T>>;
 

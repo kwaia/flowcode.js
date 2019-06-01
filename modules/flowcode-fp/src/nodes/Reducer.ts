@@ -32,7 +32,7 @@ export type Out<I, O> = {
  * Aggregates input values between reset signals, according to an aggregator
  * (reduce) callback.
  * Operates with either independent or joined inputs.
- * @link https://github.com/kwaia/flowcode/wiki/Reducer
+ * @link https://github.com/kwaia/flowcode.js/wiki/Reducer
  */
 export type Reducer<I, O> = Node<In<I>, Out<I, O>>;
 

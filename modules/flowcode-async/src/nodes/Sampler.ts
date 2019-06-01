@@ -15,7 +15,7 @@ export type Out<V> = {
 
 /**
  * Forwards last input value on receiving a sampling signal.
- * @link https://github.com/kwaia/flowcode/wiki/Sampler
+ * @link https://github.com/kwaia/flowcode.js/wiki/Sampler
  */
 export type Sampler<V> = Node<In<V>, Out<V>>;
 

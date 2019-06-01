@@ -13,7 +13,7 @@ export type Out = {
 
 /**
  * Emits a signal at predefined intervals when ticking.
- * @link https://github.com/kwaia/flowcode/wiki/Ticker
+ * @link https://github.com/kwaia/flowcode.js/wiki/Ticker
  */
 export type Ticker = Node<In, Out>;
 

@@ -9,7 +9,7 @@ export type Out<T> = T;
 
 /**
  * Splits object input into its properties.
- * @link https://github.com/kwaia/flowcode/wiki/Splitter
+ * @link https://github.com/kwaia/flowcode.js/wiki/Splitter
  */
 export type Splitter<T> = Node<In<T>, Out<T>>;
 

@@ -8,7 +8,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git@github.com:flowcode/flowcode.git"
+    "url": "https://github.com/kwaia/flowcode.js.git"
   },
   "devDependencies": {
     "@types/grunt": "^0.4.24",

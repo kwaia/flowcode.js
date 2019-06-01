@@ -13,7 +13,7 @@ export type Out<V> = {
 
 /**
  * Forwards input value unconditionally.
- * @link https://github.com/kwaia/flowcode/wiki/Noop
+ * @link https://github.com/kwaia/flowcode.js/wiki/Noop
  */
 export type Noop<V> = Node<In<V>, Out<V>>;
 

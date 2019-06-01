@@ -26,7 +26,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kwaia/flowcode.git"
+    "url": "https://github.com/kwaia/flowcode.js.git"
   },
   "dependencies": {
     "flowcode": "^0.1.0"

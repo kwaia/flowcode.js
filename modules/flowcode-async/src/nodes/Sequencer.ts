@@ -15,7 +15,7 @@ export type Out<V> = {
 
 /**
  * Forwards input values in an order matching the reference input.
- * @link https://github.com/kwaia/flowcode/wiki/Sequencer
+ * @link https://github.com/kwaia/flowcode.js/wiki/Sequencer
  */
 export type Sequencer<V> = Node<In<V>, Out<V>>;
 

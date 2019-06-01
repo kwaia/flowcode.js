@@ -30,6 +30,7 @@ export type Out<P extends string, V> = OutFields<P, V> & {
  * Forwards input value to one of the output ports, depending on the
  * node's current 'position' state.
  * Operates with either independent or joined inputs.
+ * @link https://github.com/kwaia/flowcode.js/wiki/Switcher
  */
 export type Switcher<P extends string, V> = Node<In<P, V>, Out<P, V>>;
 

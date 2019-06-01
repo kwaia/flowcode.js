@@ -11,7 +11,7 @@ export type Out<T> = {
 /**
  * Multiplexes input value.
  * Forwards multiplexed input value to a single output port.
- * @link https://github.com/kwaia/flowcode/wiki/Muxer
+ * @link https://github.com/kwaia/flowcode.js/wiki/Muxer
  */
 export type Muxer<T> = Node<In<T>, Out<T>>;
 

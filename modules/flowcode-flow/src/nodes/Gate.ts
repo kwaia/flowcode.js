@@ -27,7 +27,7 @@ export type Out<V> = {
 /**
  * Forwards input value when gate is open.
  * Operates with either independent or joined inputs.
- * @link https://github.com/kwaia/flowcode/wiki/Gate
+ * @link https://github.com/kwaia/flowcode.js/wiki/Gate
  */
 export type Gate<V> = Node<In<V>, Out<V>>;
 

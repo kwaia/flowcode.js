@@ -19,7 +19,7 @@ export type Out<I, O> = {
 
 /**
  * Maps input value according to mapper callback.
- * @link https://github.com/kwaia/flowcode/wiki/Mapper
+ * @link https://github.com/kwaia/flowcode.js/wiki/Mapper
  */
 export type Mapper<I, O> = Node<In<I>, Out<I, O>>;
 
