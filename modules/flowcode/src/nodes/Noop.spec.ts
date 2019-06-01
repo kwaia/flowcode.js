@@ -1,4 +1,4 @@
-import {connect} from "../utils";
+import {connect} from "../utils/connect";
 import {createNoop, Noop} from "./Noop";
 
 describe("createNoop()", () => {

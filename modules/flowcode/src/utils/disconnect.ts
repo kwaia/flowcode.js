@@ -1,4 +1,5 @@
-import {InPort, OutPort} from "../types";
+import {InPort} from "../types/InPort";
+import {OutPort} from "../types/OutPort";
 
 /**
  * Tears down the connection between the specified ports, or, when the input

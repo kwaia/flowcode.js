@@ -1,5 +1,5 @@
-import {Node} from "../types";
-import {createNode} from "../utils";
+import {Node} from "../types/Node";
+import {createNode} from "../utils/createNode";
 
 export type In<V> = {
   /** Value to be forwarded. */

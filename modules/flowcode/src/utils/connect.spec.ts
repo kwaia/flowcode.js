@@ -1,4 +1,5 @@
-import {InPort, OutPort} from "../types";
+import {InPort} from "../types/InPort";
+import {OutPort} from "../types/OutPort";
 import {connect} from "./connect";
 
 describe("connect", () => {

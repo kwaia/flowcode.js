@@ -1,4 +1,7 @@
-import {InPorts, Node, OutPorts, Outputs} from "../types";
+import {InPorts} from "../types/InPorts";
+import {Node} from "../types/Node";
+import {OutPorts} from "../types/OutPorts";
+import {Outputs} from "../types/Outputs";
 
 /**
  * Creates a node based on the specified output port names and input port
