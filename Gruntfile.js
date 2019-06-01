@@ -1,4 +1,5 @@
-/* jshint node:true */
+/* jshint node:true, esversion: 6 */
+/* tslint:disable */
 const {resolve} = require("path");
 
 module.exports = function (grunt) {
