@@ -1,5 +1,5 @@
 import {copy, createNode, Node} from "flowcode";
-import {ReducerCallback} from "../types";
+import {ReducerCallback} from "../types/ReducerCallback";
 
 export type InFields<I> = {
   /** Flushes reduced value. */

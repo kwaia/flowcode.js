@@ -1,4 +1,4 @@
-import {MapperCallback} from "../types";
+import {MapperCallback} from "../types/MapperCallback";
 
 /**
  * Creates a function that maps any value to the specified constant.

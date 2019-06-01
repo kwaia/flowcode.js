@@ -1,5 +1,5 @@
 import {createNode, Node} from "flowcode";
-import {MapperCallback} from "../types";
+import {MapperCallback} from "../types/MapperCallback";
 
 export type In<I> = {
   /** Value to be mapped. */

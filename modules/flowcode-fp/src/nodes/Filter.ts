@@ -1,5 +1,5 @@
 import {createNode, Node} from "flowcode";
-import {FilterCallback} from "../types";
+import {FilterCallback} from "../types/FilterCallback";
 
 export type In<V> = {
   /** Value to be filtered. */
