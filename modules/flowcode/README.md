@@ -1,7 +1,7 @@
-FlowCode
-========
+FlowCode.js
+===========
 
-Tools for building dataflow graphs.
+Tools for building dataflow graphs in JavaScript.
 
 Getting started
 ---------------
