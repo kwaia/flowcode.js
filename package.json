@@ -13,7 +13,7 @@
   "devDependencies": {
     "@types/grunt": "^0.4.24",
     "@types/jasmine": "^2.8.16",
-    "grunt": "^1.0.3",
+    "grunt": "^1.5.3",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-exec": "^3.0.0",
